@@ -28,12 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siddharthgowd000&theme=dark&hide_border=false)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=siddharthgowd000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- 
 
 <!---
 siddharthgowdk/siddharthgowdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
