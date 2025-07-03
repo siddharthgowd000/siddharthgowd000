@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [siddhuportfolio.ccbp.tech](www.siddhuportfolio.ccbp.tech)
+- 👨‍💻 All of my projects are available at [https://siddharthkamparaju.netlify.app/](https://siddharthkamparaju.netlify.app/)
 
 - 💬 Ask me about **react, nodeJS, DSA.**
 
