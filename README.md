@@ -1,37 +1,126 @@
 
-<h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">A Passionate Full Stack Developer from India.</h3>
-<img align="right" alt = "Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- ===================== HERO EXPERIENCE ===================== -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthgowd000&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthgowd000" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Siddharth&fontSize=70&fontAlignY=45&color=gradient&animation=fadeIn&desc=Full-Stack%20Engineer%20|%20Product%20Builder%20|%20Systems%20Thinker&descAlignY=65" />
+</p>
 
-- 🌱 I’m currently learning **AI/ML**
-
-- 👨‍💻 All of my projects are available at [https://siddharthkamparaju.netlify.app/](https://siddharthkamparaju.netlify.app/)
-
-- 💬 Ask me about **react, nodeJS, DSA.**
-
-- ⚡ Fun fact - If you want to learn recursion, you need to learn recursion :)
-
-- 📫 How to reach me **siddharthgowd000@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Startup-Grade+Product+Builder;I+Build+Real+Products" />
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/siddhuuuuz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharthgowd/) 
+<p align="center">
+  <strong>⚡ Engineering is my craft. Impact is my metric.</strong>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddharthgowd000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthgowd000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=siddharthgowd000&theme=dark&hide_border=false)
+<p align="center">
+  <a href="https://linkedin.com/in/siddharthgowd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://siddharthkamparaju.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel"/></a>
+  <a href="mailto:siddharthgowd000@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Me-7C3AED?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+<br/>
 
 
 
 
-<!---
-siddharthgowdk/siddharthgowdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 Who I Am
+
+I’m a Full-Stack Engineer with a **startup-builder mindset**.
+
+* 🚀 Shipped **production SaaS systems**
+* 🧩 Strong across **Frontend, Backend, Databases & Infra**
+* 🧠 Thinks in **flows, edge cases, and long-term systems**
+* 🎯 Obsessed with **ownership & execution**
+
+
+<br/>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🗄️ Data & Performance</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+    </td>
+    <td align="center">
+      <h3>☁️ DevOps & Infra</h3>
+      <img src="https://skillicons.dev/icons?i=docker,aws,nginx" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🧠 Foundations</h3>
+      <p>DSA • OOP • System Design • DBMS • Problem Solving</p>
+    </td>
+  </tr>
+</table>
+
+
+
+<br/>
+
+---
+
+## 📊 **Engineering Footprint**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthgowd000&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharthgowd000&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthgowd000&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharthgowd000&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddharthgowd000&theme=github_dark&utcOffset=5.5" />
+</p>
+
+
+<br/>
+
+
+
+## 💼 **Open For Impact**
+
+* Full-Stack / Backend / Frontend Roles
+* Startup & SaaS Engineering
+* Freelancing & Consulting
+* Open-Source Collaboration
+
+
+<br/>
+
+---
+
+## 📫 **Let’s Build Something Real**
+
+* LinkedIn → [https://linkedin.com/in/siddharthgowd](https://linkedin.com/in/siddharthgowd)
+* Portfolio → [https://siddharthkamparaju.netlify.app/](https://siddharthkamparaju.netlify.app/)
+* Email → [siddharthgowd000@gmail.com](mailto:siddharthgowd000@gmail.com)
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0F172A&text=Consistency%20compounds%20into%20excellence&fontSize=22&fontColor=FFFFFF&animation=fadeIn" />
+</p>
+
+
+
+
 
