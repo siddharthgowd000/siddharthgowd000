@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Siddharth&fontSize=70&fontAlignY=45&color=gradient&animation=fadeIn&desc=Full-Stack%20Engineer%20|%20Product%20Builder%20|%20Systems%20Thinker&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=ECEFF4&text=Siddharth&fontSize=64&fontAlignY=45&fontColor=000000&desc=Full-Stack%20Engineer%20|%20Product%20Builder%20|%20Systems%20Thinker&descAlignY=65&descColor=000000&animation=fadeIn" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Startup-Grade+Product+Builder;I+Build+Real+Products" />
